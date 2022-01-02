@@ -11,10 +11,10 @@ int main()
     int search=binarysearch(arr,size,element);
     printf(" element index is %d\n",search);
 }
+hellob gfhgfjgfjh
 
 
-
-
+fhtfjyklj;o'p
 int binarysearch(int arr[],int size,int element)
 {
     int low=0;
