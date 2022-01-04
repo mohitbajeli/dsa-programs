@@ -1,0 +1,2 @@
+getrollno();
+    getmarks();
